@@ -1,8 +1,8 @@
 <%-- 
     Document   : footer
     Created on : 08/11/2011, 11:02:29 AM
-    Author     : Ing. Felix D. Lopez M. - flex.developments@gmail.com | flopez@suscerte.gob.ve
-                 Ing. Yessica De Ascencao - yessicadeascencao@gmail.com | ydeascencao@suscerte.gob.ve
+    Author     : Ing. Felix D. Lopez M. - flex.developments en gmail | flopez en suscerte gob ve
+                 Ing. Yessica De Ascencao - yessicadeascencao en gmail | ydeascencao en suscerte gob ve
     Version    : 1.0
 --%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
