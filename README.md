@@ -1,7 +1,7 @@
 # ucaima
 Java - WebService RestFull que provee funcionalidades asociadas a la firma electrónica del lado del servidor.
 
-Dependencias:
+## Dependencias
  * commons-net-3.1
  * mail
  * xmlsec-1.5.2
@@ -12,7 +12,7 @@ Dependencias:
  * lib-flex-pkikeys v010
  * lib-flex-helpers v010
 
-Copyright (C) 2010
+## Copyright (C) 2010
 Ing. Felix D. Lopez M. - flex.developments@gmail.com
 
 Desarrollo apoyado por la Superintendencia de Servicios de Certificación Electrónica (SUSCERTE) durante 2010-2014 por:
