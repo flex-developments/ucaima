@@ -1,0 +1,5 @@
+#La primera línea debe indicar el algoritmo de hash con el fueron generados los 
+#hash de los drivers. Los valores pueden ser: SHA-1, SHA-256, SHA-384 ó SHA-512
+SHA-256
+
+#---------------------- Lista de repositorios permitidos -----------------------
