@@ -7,7 +7,7 @@ Dependencias:
  * xmlsec-1.5.2
  * kawi v010
  * bc-jdk15to17-v150-nonofficial v010
- * itext-v544-nonofficial v010
+ * itextpdf-v552-nonofficial v010
  * lib-flex-esign v010
  * lib-flex-pkikeys v010
  * lib-flex-helpers v010
