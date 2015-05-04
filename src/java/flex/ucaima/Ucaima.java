@@ -315,6 +315,7 @@ public class Ucaima {
                     PDFOperator.getPdfReader(inPdfFile, readPass), 
                     UcaimaServerObjects.getServerKeys().getPrivateKey(), 
                     UcaimaServerObjects.getServerKeys().getSignCertificate(),
+                    null,
                     readPass, 
                     writePass, 
                     reason, 

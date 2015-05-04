@@ -2,15 +2,14 @@
 Java - WebService RestFull que provee funcionalidades asociadas a la firma electrónica del lado del servidor.
 
 ## Dependencias
- * commons-net-3.1
- * mail
- * xmlsec-1.5.2
- * kawi v010
- * bc-jdk15to17-v150-nonofficial v010
- * itextpdf-v552-nonofficial v010
- * lib-flex-esign v010
- * lib-flex-pkikeys v010
- * lib-flex-helpers v010
+ * kawi v020
+ * itextpdf-v420-nonofficial v020
+ * bc-jdk15to17-v150-nonofficial v020
+ * lib-flex-esign v020
+ * lib-flex-pkikeys v020
+ * lib-flex-helpers v020
+   * commons-net-3.3 (http://commons.apache.org/proper/commons-net/download_net.cgi)
+   * javax.mail  (https://java.net/projects/javamail/pages/Home)
 
 ## Copyright (C) 2010 - Ing. Félix D. López M.
  * Ing. Félix D. López M. - flex.developments en gmail
